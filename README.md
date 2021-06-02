@@ -7,4 +7,4 @@
 | 3. |[git] (https://replit.com/@BatoolBassam/reading-notes-1#Git)|
 | 4. |[web pages ] (https://replit.com/@BatoolBassam/reading-notes-1#Web)|
 
-
+| 5. |[dynamic] (https://replit.com/@BatoolBassam/reading-notes-1#Dynamic)|
