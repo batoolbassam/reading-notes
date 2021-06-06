@@ -9,4 +9,6 @@
 | 5. |[dynamic] (https://replit.com/@BatoolBassam/reading-notes-1#Dynamic)|
 | 6. |[operators] (https://replit.com/@BatoolBassam/reading-notes-1#Operations)|
 | 7. |[design with css] (https://replit.com/@BatoolBassam/reading-notes-1#Design)|
+| 8. |[programming with JavaScript] (https://replit.com/@BatoolBassam/reading-notes-1#Programming.md)|
+
 
